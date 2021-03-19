@@ -8456,3 +8456,7 @@ totojitu.gif|$image
 ||yellaface.com^
 ||ypmate.com^
 ||zentastic.com^
+||20.detik.com^
+||dugout.com/asia/trending-ind^
+||20.detik.com
+||dugout.com
